@@ -107,9 +107,9 @@
   <h3 align="center"> Streak Stats</h3>
 
   <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" >
+<!--     <a href="https://github.com/0plaze0/github-readme-streak-stats" >
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=0plaze0&theme=monokai-metallian&hide_border=true"/>
-    </a>
+    </a> -->
 
   <h3 align="center"> GitHub Profile Stats</h3>
 

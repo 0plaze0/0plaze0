@@ -39,6 +39,11 @@
 
   <p align="left">
     <a href="https://github.com/0plaze0/Weather_App"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=Weather_App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Weather_App"></a>
+    <a href="https://github.com/0plaze0/To-Do-List"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=To-Do-List&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="To-Do-List"></a>
+    <a href="https://github.com/0plaze0/Add-to-Cart"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=Add-to-Cart&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Add-to-Cart"></a>
+    <a href="https://github.com/0plaze0/Ping-Pong"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=Ping-Pong&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ping-Pong"></a>
+    <a href="https://github.com/0plaze0/E-commerce"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=E-commerce&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-commerce"></a>
+
     
   </p>
 
@@ -59,7 +64,7 @@
 
 
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 

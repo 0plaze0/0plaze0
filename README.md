@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/0plaze0" align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D45270&repeat=false&width=435&lines=0plaze0" alt="Typing SVG" align="center"/></a></a>
+  <p align="center" ><a href="https://github.com/0plaze0" align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D45270&repeat=false&width=435&lines=0plaze0" alt="Typing SVG" align="center"/></p></a>
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3 align="center"> Streak Stats</h3>
+  <!--<h3 align="center"> Streak Stats</h3>-->
 
   <p align="center">
 <!--     <a href="https://github.com/0plaze0/github-readme-streak-stats" >

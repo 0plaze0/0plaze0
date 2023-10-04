@@ -128,6 +128,8 @@
 
 <img alt="0plaze0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=0plaze0&bg_color=0C0B1B&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+[![An image of @0plaze0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0plaze0)](https://holopin.io/@0plaze0)
+
 
 </details>
 

@@ -1,47 +1,5 @@
 
 
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-  <a href="https://github.com/0plaze0?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0plaze0?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/0plaze0?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/0plaze0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-
-<br/>
-
-
-
-
-
-
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/0plaze0/Weather_App"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=Weather_App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Weather_App"></a>
-    <a href="https://github.com/0plaze0/To-Do-List"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=To-Do-List&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="To-Do-List"></a>
-    <a href="https://github.com/0plaze0/Add-to-Cart"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=Add-to-Cart&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Add-to-Cart"></a>
-    <a href="https://github.com/0plaze0/Ping-Pong"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=Ping-Pong&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ping-Pong"></a>
-    <a href="https://github.com/0plaze0/E-commerce"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=0plaze0&repo=E-commerce&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-commerce"></a>
-
-    
-  </p>
-
-  <a href="https://github.com/0plaze0?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/0plaze0/Front-End-Projects"><img width="278" src="https://github-readme-stats-no-more-gem.vercel.app/api/pin/?username=TusharKesarwani&repo=Front-End-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    
-
-
-</details>
-
-
-
 
 
 <details open> 

@@ -1,23 +1,3 @@
-<p align="center">
-  <p align="center" ><a href="https://github.com/0plaze0" align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D45270&repeat=false&width=435&lines=0plaze0" alt="Typing SVG" align="center"/></p></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD4964&width=435&lines=I'm+a+Full-Stack+web+developer;I'm+a+open-source-Enthusiast" alt="Typing SVG" /></a></a></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/_plaze_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; -->
-</p>
-
-<br/>
 
 
 <p align="center">

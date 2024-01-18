@@ -1,4 +1,4 @@
-[![An image of @0plaze0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0plaze0)](https://holopin.io/@0plaze0)
+
 
 <div align="center">
   
